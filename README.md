@@ -21,4 +21,4 @@ Pull requests accepted.
 
 Credits
 -------
-Written by @simonw, put on Github pages by @henare when he discovered http://lightningtimer.net/ wasn't responding.
+Written by [@simonw](https://github.com/simonw), put on Github pages by [@henare](https://github.com/henare) when he discovered http://lightningtimer.net/ wasn't responding.
